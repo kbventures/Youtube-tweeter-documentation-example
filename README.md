@@ -48,11 +48,7 @@ Tweeter is a social media application where users can post their thoughts, feeli
 
 ## What the app looks like
 
-<img source="https://github.com/MikaelAbehsera/Youtube-tweeter-documentation-example/blob/master/screenshots/wefwefwefewfwefwef.JPG"> </img>
-
-
-
-
+![alt text](https://github.com/MikaelAbehsera/Youtube-tweeter-documentation-example/blob/master/screenshots/wefwefwefewfwefwef.JPG)
 
 
 
